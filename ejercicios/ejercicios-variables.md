@@ -16,7 +16,7 @@ Escribir un programa que pregunte el nombre del usuario en la consola y un núme
 Escribir un programa que pregunte el nombre del usuario en la consola y después de que el usuario lo introduzca muestre por pantalla \<NOMBRE> tiene \<n> letras, donde \<NOMBRE> es el nombre de usuario en mayúsculas y \<n> es el número de letras que tienen el nombre.
 
 ## Ejercicio 6
-Escribir un programa que realice la siguiente operación aritmética (3+22⋅5)2.
+Escribir un programa que realice la siguiente operación aritmética (3+22*5)2.
 
 ## Ejercicio 7
 Escribir un programa que pregunte al usuario por el número de horas trabajadas y el coste por hora. Después debe mostrar por pantalla la paga que le corresponde.
@@ -45,3 +45,5 @@ Imagina que acabas de abrir una nueva cuenta de ahorros que te ofrece el 4% de i
 
 ## Ejercicio 14
 Una panadería vende barras de pan a 3.49€ cada una. El pan que no es el día tiene un descuento del 60%. Escribir un programa que comience leyendo el número de barras vendidas que no son del día. Después el programa debe mostrar el precio habitual de una barra de pan, el descuento que se le hace por no ser fresca y el coste final total.
+
+Fuente: [Aprende con Alf](http://aprendeconalf.es/)
