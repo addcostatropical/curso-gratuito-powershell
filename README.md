@@ -7,6 +7,6 @@ Repositorio para el curso gratuito de Power Shell: [Lista de videos](https://www
 4. [Variables II: Tipos de datos/variables](https://youtu.be/MiKI1q2W1BE)
 
 ## Listado de Ejercicios
-1. [Ejercicios sobre variables](https://github.com/addcostatropical/curso-gratuito-powershell/blob/master/ejercicios/ejercicios-estructuras-repetitivas.md)
-2. [Ejercicios sobre estructuras condicionales](#)
-3. [Ejercicios sobre estructuras repetitivas](#)
+1. [Ejercicios sobre variables](https://github.com/addcostatropical/curso-gratuito-powershell/blob/master/ejercicios/ejercicios-variables.md)
+2. [Ejercicios sobre estructuras condicionales](https://github.com/addcostatropical/curso-gratuito-powershell/blob/master/ejercicios/ejercicios-estructuras-condicionales.md)
+3. [Ejercicios sobre estructuras repetitivas](https://github.com/addcostatropical/curso-gratuito-powershell/blob/master/ejercicios/ejercicios-estructuras-repetitivas.md)
