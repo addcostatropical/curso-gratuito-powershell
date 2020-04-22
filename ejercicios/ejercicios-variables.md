@@ -1,4 +1,4 @@
-# Ejercicios Power Shell sobre estructuras repetitivas
+# Ejercicios Power Shell sobre variables
 
 ## Ejercicio 1
 Escribir un programa que muestre por pantalla la cadena ¡Hola Mundo!.
