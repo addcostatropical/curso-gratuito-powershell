@@ -17,6 +17,7 @@ Escribir un programa que pregunte el nombre del usuario en la consola y después
 
 ## Ejercicio 6
 Escribir un programa que realice la siguiente operación aritmética:
+
 ![Image of Yaktocat](variables-6.png)
 
 ## Ejercicio 7
