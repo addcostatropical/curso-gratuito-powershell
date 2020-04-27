@@ -16,7 +16,8 @@ Escribir un programa que pregunte el nombre del usuario en la consola y un núme
 Escribir un programa que pregunte el nombre del usuario en la consola y después de que el usuario lo introduzca muestre por pantalla \<NOMBRE> tiene \<n> letras, donde \<NOMBRE> es el nombre de usuario en mayúsculas y \<n> es el número de letras que tienen el nombre.
 
 ## Ejercicio 6
-Escribir un programa que realice la siguiente operación aritmética (3+22*5)2.
+Escribir un programa que realice la siguiente operación aritmética:
+![Image of Yaktocat](variables-6.png)
 
 ## Ejercicio 7
 Escribir un programa que pregunte al usuario por el número de horas trabajadas y el coste por hora. Después debe mostrar por pantalla la paga que le corresponde.
