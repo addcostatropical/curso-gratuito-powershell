@@ -18,7 +18,7 @@ Escribir un programa que pregunte el nombre del usuario en la consola y después
 ## Ejercicio 6
 Escribir un programa que realice la siguiente operación aritmética:
 
-![Image of Yaktocat](variables-6.png)
+![Ejercicio 6](variables-6.png)
 
 ## Ejercicio 7
 Escribir un programa que pregunte al usuario por el número de horas trabajadas y el coste por hora. Después debe mostrar por pantalla la paga que le corresponde.
@@ -26,9 +26,8 @@ Escribir un programa que pregunte al usuario por el número de horas trabajadas 
 ## Ejercicio 8
 Escribir un programa que lea un entero positivo, n, introducido por el usuario y después muestre en pantalla la suma de todos los enteros desde 1 hasta n. La suma de los n primeros enteros positivos puede ser calculada de la siguiente forma:
 
-```
-suma=n(n+1)2
-```
+![Ejercicio 8](variables-8.png)
+
 
 ## Ejercicio 9
 Escribir un programa que pida al usuario su peso (en kg) y estatura (en metros), calcule el índice de masa corporal y lo almacene en una variable, y muestre por pantalla la frase Tu índice de masa corporal es \<imc> donde \<imc> es el índice de masa corporal calculado redondeado con dos decimales.
