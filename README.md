@@ -13,3 +13,4 @@ Repositorio para el curso gratuito de Power Shell: [Lista de videos](https://www
 1. [Ejercicios sobre variables](https://github.com/addcostatropical/curso-gratuito-powershell/blob/master/ejercicios/ejercicios-variables.md)
 2. [Ejercicios sobre estructuras condicionales](https://github.com/addcostatropical/curso-gratuito-powershell/blob/master/ejercicios/ejercicios-estructuras-condicionales.md)
 3. [Ejercicios sobre estructuras repetitivas](https://github.com/addcostatropical/curso-gratuito-powershell/blob/master/ejercicios/ejercicios-estructuras-repetitivas.md)
+3. [Ejercicios sobre arrays](https://github.com/addcostatropical/curso-gratuito-powershell/blob/master/ejercicios/ejercicios-arrays.md)
