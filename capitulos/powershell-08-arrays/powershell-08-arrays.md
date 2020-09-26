@@ -120,9 +120,35 @@ $numeros
 
 ---
 
+## ArrayList
+
+- Para solucionarlo usaremos ArrayList
+- ArrayList es como un array pero sin ser fijos
+
+```
+[System.Collections.ArrayList]$caps = "A", "B", "C", "D"
+$caps.Remove("B")
+```
+
+---
+
+## Eliminar todas las ocurrencias
+
+- Si queremos eliminar todas las ocurrencias, usaremos Remove acompañado de un while (lo veremos más tarde) y el método `-contains`
+
+```
+[System.Collections.ArrayList]$caps = "A", "B", "C", "D", "C", "E"
+while ($caps -contains "C") {
+    $caps.Remove("C")
+}
+```
+
+---
+
 ## Suma de arrays
 
-- PowerShell no da forma de eliminar elementos ya que los arrays son estructuras estáticas
+- Para sumar arrays solo necesitamos utilizar el operador +
+- Esto nos dará como resultado un array con la concatenación de los dos arrays
 
 ```
 $a = @(2,3)
