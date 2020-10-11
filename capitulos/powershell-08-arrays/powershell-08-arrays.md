@@ -208,10 +208,9 @@ No tengas miedo, es gratis :smile:
 
 - https://addcostatropical.org
 - Youtube => ADD Costa Tropical
-- @addcostatropical
+- Instagram personal: @bienvenidosaez
+- Instagram ADD: @addcostatropical
 - #somosadd
-- Facebook
-- Instagram
 
 ---
 
