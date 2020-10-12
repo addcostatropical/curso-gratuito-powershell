@@ -58,9 +58,13 @@ Write-Host "Fin del programa"
 
 ## SWITCH - Break
 
-- La sentencia Break comperá el flujo de la sentencia actual y seguirá adelante
+- La sentencia Break romperá el flujo de la sentencia actual y seguirá adelante
 - Si no la introducimos, switch seguirá evaluando las demás opciones, gastando tiempo de cálculo
 - En este ejemplo no tiene mucho sentido, en el que veremos a continuación verás como si
+
+---
+
+## SWITCH - Break II
 
 ```powershell
 $color = Read-Host "Introduce el color del semáforo (rojo, verde o amarillo):"

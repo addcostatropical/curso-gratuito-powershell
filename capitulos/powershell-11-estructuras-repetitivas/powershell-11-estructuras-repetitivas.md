@@ -203,20 +203,20 @@ for ($i=0; $i -lt 10; $i++) {
 }
 ```
 
-- Imprimirá: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 cada número en una línea
+- Imprimirá: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 cada número en una línea
 
 ---
 
 ## For - Ejemplo II
 
 ```powershell
-$fin = Read-Host "Introduce un número"
+[int]$fin = Read-Host "Introduce un número"
 for ($i=0; $i -lt $fin; $i++) {
     Write-Host $i
 }
 ```
 
-- Imprimirá todos los números desde el 1 hasta el número introducido
+- Imprimirá todos los números desde el 0 hasta el número introducido
 
 ---
 
