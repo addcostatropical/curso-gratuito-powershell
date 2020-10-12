@@ -1,6 +1,6 @@
 # Ejercicios Power Shell sobre estructuras condicionales
 
-## Ejercicio 1
+## Ejercicio 1a
 Escribir un programa que pregunte al usuario su edad y muestre por pantalla si es mayor de edad o no.
 
 ## Ejercicio 2

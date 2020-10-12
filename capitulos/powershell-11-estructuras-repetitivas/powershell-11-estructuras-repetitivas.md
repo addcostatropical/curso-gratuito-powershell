@@ -233,7 +233,7 @@ for ($i=0; $i -lt $nombres.Length; $i++) {
 
 ---
 
-## Cuadro resumen (somebooks)
+## Cuadro resumen (Somebooks)
 
 ![inline](resumen.png)
 
@@ -242,6 +242,8 @@ for ($i=0; $i -lt $nombres.Length; $i++) {
 ## Cierre del curso
 
 - Hasta aquí las estructuras repetitivas
+- Hasta aquí la parte teórica del cursor
+- Nos queda una parte de ejercicios prácticos en los que podremos poner en práctica casi todo lo aprendido
 
 ---
 
