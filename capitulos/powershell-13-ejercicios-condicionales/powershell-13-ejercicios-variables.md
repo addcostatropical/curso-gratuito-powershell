@@ -39,7 +39,7 @@ if($edad -lt 18) {
 ```powershell
 $pass = "secreto"
 $pass_introducida = Read-Host "Introduce tu contraseña"
-if($pass_introducida -ieq $pass) {
+if($pass_introducida -eq $pass) {
     Write-Host "Contraseña correcta"
 }else {
     Write-Host "Contraseña incorrecta"
@@ -115,7 +115,7 @@ if($numero % 2 -eq 0) {
 [int]$edad = Read-Host "Introduce tu edad"
 [float]$ingresos = Read-Host "Introduce tus ingresos"
 
-if($edad -gt 16 -and $ingresos -gt 1000) {
+if($edad -gt 16 -and $ingresos -ge 1000) {
     Write-Host "Tributa"
 } else {
     Write-Host "No tributa"
@@ -218,9 +218,6 @@ elseif($puntuacion -ge 0.6) {
 }
 
 $dinero = (2400 * $puntuacion)
-if($dinero -eq 0) {
-    $dinero = 2400
-}
 
 Write-Host "su Nivel es $nivel y le corresponden $dinero euros"
 ```
@@ -236,14 +233,11 @@ $nivel = ""
 switch ($puntuacion) {
     {$_ -eq 0.0}{$nivel = "Inaceptable" Break }
     {$_ -eq 0.4}{ $nivel = "Aceptable" Break }
-    {$_ -eq 0.6}{ $nivel = "Meritorio" Break }
+    {$_ -ge 0.6}{ $nivel = "Meritorio" Break }
     default { $nivel = "Invalido" }
 }
 
 $dinero = (2400 * $puntuacion)
-if($dinero -eq 0) {
-    $dinero = 2400
-}
 
 Write-Host "su Nivel es $nivel y le corresponden $dinero euros"
 ```

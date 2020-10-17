@@ -53,10 +53,7 @@ while($i -lt $edad) {
 
 ```powershell
 [int]$edad = Read-Host "Introduce tu edad"
-
-$i = 1
-
-for($i=1; $i -lt $edad; $i++){
+for($i=1; $i -le $edad; $i++){
     Write-Host $i
 }
 ```

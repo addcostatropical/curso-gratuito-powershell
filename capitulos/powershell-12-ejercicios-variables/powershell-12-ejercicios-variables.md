@@ -192,10 +192,12 @@ Write-Host "La division de $numero1 por $numero2 da" , ($numero1/$numero2) , "co
 ```powershell
 [float]$cantidad = Read-Host "Cuanto quieres invertir"
 [float]$interes = Read-Host "Con cuanto interes"
-[int]$años = Read-Host "A cuantos años"
-$resultado = [Math]::Round($cantidad * [Math]::Pow(($interes / 100 + 1) , $años))
+[int]$tiempo = Read-Host "A cuantos años"
 
-Write-Host $resultado
+$interes_anual_ganado = $cantidad * ($interes/100)
+$ganado = $interes_anual_ganado * $tiempo
+
+Write-Host $ganado
 ```
 
 ---
